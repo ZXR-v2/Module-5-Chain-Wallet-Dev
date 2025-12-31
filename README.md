@@ -33,9 +33,10 @@
 
 链接: https://decert.me/quests/a1a9aff6-1788-4254-bc47-405cc529bbd1
 
-对应代码：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/NFTMarket
+对应代码库：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/NFTMarket
 
 实战 7. 理解 EIP712 标准，尝试掌握用离线签名（Permit）的方式来进行 Token 的授权和白名单设计。
+
 链接: https://decert.me/quests/fc66ef6c-35db-4ee7-b11d-c3b2d3fa356a
 
 实战 8. 利用 Permit2 为所有的 Token 接入离线签名授权及转账功能，实践在前端发起支持 Permit2 的签名。
