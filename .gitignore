@@ -1,0 +1,17 @@
+# === Node / JS ===
+node_modules/
+.env
+.env.*
+
+# === Editor ===
+.vscode/
+
+# === OS ===
+.DS_Store
+
+# === Logs ===
+*.log
+
+# === Build ===
+dist/
+out/
