@@ -5,16 +5,21 @@
 
 链接： https://decert.me/quests/56e455b3-901c-415d-90c0-a20759469cf9
 
-对应代码库：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/hello_viem-main/viem-front
+对应代码：[https://github.com/ZXR-v2/HELLO_VIEM/blob/main/viem-front/app/tokenbank/page.tsx](https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/blob/main/hello_viem-main/viem-front/app/tokenbank/page.tsx)
 
 实战 2. 在后端（使⽤ Viem.sh ）监听 NFTMarket 合约发生的事件（买卖记录）
+
 链接：https://decert.me/quests/b4698649-25b2-45ae-9bb5-23da0c49e491
+
+对应代码：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/blob/main/hello_viem-main/demo/src/watchTransfer.ts
 
 理解在后端通过 Viem.sh 事件，实时获取链上状态。
 
 实战 3. (使用 Viem)构建自己的命令行钱包， 来理解创建钱包账号、构造交易、签名交易、发送交易的全流程。
 
 链接： https://decert.me/quests/992dae0f-3bdf-4f03-9798-3427234fad95
+
+对应代码库：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/cli-Wallet
 
 实战 4. 实践操作 SafeWallet 多签钱包，理解多签的实现及使用
 
@@ -27,6 +32,8 @@
 实战 6. 为 NFT 市场 NFTMarket 项目添加前端，接入 AppKit 进行多钱包（尤其是 WalletConnect）前端登录
 
 链接: https://decert.me/quests/a1a9aff6-1788-4254-bc47-405cc529bbd1
+
+对应代码：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/NFTMarket
 
 实战 7. 理解 EIP712 标准，尝试掌握用离线签名（Permit）的方式来进行 Token 的授权和白名单设计。
 链接: https://decert.me/quests/fc66ef6c-35db-4ee7-b11d-c3b2d3fa356a
