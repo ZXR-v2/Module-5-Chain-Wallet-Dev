@@ -5,6 +5,8 @@
 
 链接： https://decert.me/quests/56e455b3-901c-415d-90c0-a20759469cf9
 
+对应代码库：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/hello_viem-main/viem-front
+
 实战 2. 在后端（使⽤ Viem.sh ）监听 NFTMarket 合约发生的事件（买卖记录）
 链接：https://decert.me/quests/b4698649-25b2-45ae-9bb5-23da0c49e491
 
