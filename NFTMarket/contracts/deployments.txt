@@ -1,0 +1,58 @@
+# 已替换（2025/12/16）
+Deployment Addresses (Sepolia Testnet):
+
+BaseERC20 (MTK Token): 0x1F7cA1b9e2dE35d2c08092fd32E28Fb505ee30b6
+SimpleNFT: 0xca436352EbA363493FBfCadE148c2D5603391c47
+NFTMarket: 0xDFA4DF7fCdC14F752e3BB11e34f10fBB31248F25
+
+Etherscan Links:
+BaseERC20: https://sepolia.etherscan.io/address/0x1F7cA1b9e2dE35d2c08092fd32E28Fb505ee30b6
+SimpleNFT: https://sepolia.etherscan.io/address/0xca436352EbA363493FBfCadE148c2D5603391c47
+NFTMarket: https://sepolia.etherscan.io/address/0xDFA4DF7fCdC14F752e3BB11e34f10fBB31248F25
+
+
+== Logs ==
+  BaseERC20 deployed at: 0x1F7cA1b9e2dE35d2c08092fd32E28Fb505ee30b6
+  SimpleNFT deployed at: 0xca436352EbA363493FBfCadE148c2D5603391c47
+  NFTMarket deployed at: 0xDFA4DF7fCdC14F752e3BB11e34f10fBB31248F25
+
+=== Deployment Complete ===
+  BaseERC20: 0x1F7cA1b9e2dE35d2c08092fd32E28Fb505ee30b6
+  SimpleNFT: 0xca436352EbA363493FBfCadE148c2D5603391c47
+  NFTMarket: 0xDFA4DF7fCdC14F752e3BB11e34f10fBB31248F25
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 5.403422764 gwei
+
+Estimated total gas used for script: 6709795
+
+Estimated amount required: 0.03625585904477338 ETH
+
+==========================
+
+##### sepolia
+✅  [Success] Hash: 0x7eedbc14cdfa45f8b77d77eb7e4118baa1d5815c12b2c4e3e54f6a0099e756e7
+Contract Address: 0x1F7cA1b9e2dE35d2c08092fd32E28Fb505ee30b6
+Block: 9847521
+Paid: 0.0039499486541137 ETH (1458170 gas * 2.70883961 gwei)
+
+
+##### sepolia
+✅  [Success] Hash: 0xf2aa7fb3b71d2b35f619d5fb5705d0de43c538770228a739c0075ccdeb68f9be
+Contract Address: 0xca436352EbA363493FBfCadE148c2D5603391c47
+Block: 9847524
+Paid: 0.005705431694262945 ETH (2015551 gas * 2.830705695 gwei)
+
+
+##### sepolia
+✅  [Success] Hash: 0x6d383c53507107ab29ae08aa29348fd59af419138aa359e7c1e3f4111b1b1824
+Contract Address: 0xDFA4DF7fCdC14F752e3BB11e34f10fBB31248F25
+Block: 9847525
+Paid: 0.00467361516169496 ETH (1687660 gas * 2.769287156 gwei)
+
+✅ Sequence #1 on sepolia | Total Paid: 0.014328995510071605 ETH (5161381 gas * avg 2.76961082 gwei)
