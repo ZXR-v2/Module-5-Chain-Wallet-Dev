@@ -29,6 +29,8 @@
 
 链接：https://decert.me/quests/f832d7a2-2806-4ad9-8560-a27ad8570c6f
 
+对应代码库：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/multi-sig-wallet
+
 实战 6. 为 NFT 市场 NFTMarket 项目添加前端，接入 AppKit 进行多钱包（尤其是 WalletConnect）前端登录
 
 链接: https://decert.me/quests/a1a9aff6-1788-4254-bc47-405cc529bbd1
