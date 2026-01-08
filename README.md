@@ -41,6 +41,8 @@
 
 链接: https://decert.me/quests/fc66ef6c-35db-4ee7-b11d-c3b2d3fa356a
 
+链接：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/TokenBank-tokenbank-eip712
+
 实战 8. 利用 Permit2 为所有的 Token 接入离线签名授权及转账功能，实践在前端发起支持 Permit2 的签名。
 
 链接: https://decert.me/quests/1fa3ecbc-a3cd-43ae-908e-661aac97bdc0
