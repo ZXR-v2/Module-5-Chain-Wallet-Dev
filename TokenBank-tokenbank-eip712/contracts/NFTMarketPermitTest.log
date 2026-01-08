@@ -1,0 +1,11 @@
+No files changed, compilation skipped
+
+Ran 5 tests for test/NFTMarketPermit.t.sol:NFTMarketPermitTest
+[PASS] test_ListNFT() (gas: 176495)
+[PASS] test_PermitBuy_Expired() (gas: 219801)
+[PASS] test_PermitBuy_InvalidSignature_WrongSigner() (gas: 226614)
+[PASS] test_PermitBuy_InvalidSignature_WrongUser() (gas: 226635)
+[PASS] test_PermitBuy_Success() (gas: 246431)
+Suite result: ok. 5 passed; 0 failed; 0 skipped; finished in 1.92ms (2.11ms CPU time)
+
+Ran 1 test suite in 8.59ms (1.92ms CPU time): 5 tests passed, 0 failed, 0 skipped (5 total tests)

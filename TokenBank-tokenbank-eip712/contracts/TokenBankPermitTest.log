@@ -1,0 +1,22 @@
+Compiling 1 files with Solc 0.8.25
+Solc 0.8.25 finished in 588.22ms
+Compiler run successful!
+
+Ran 14 tests for test/TokenBankPermit.t.sol:TokenBankPermitTest
+[PASS] test_PermitDeposit_EventEmitted() (gas: 121228)
+[PASS] test_PermitDeposit_ExpiredDeadline() (gas: 35918)
+[PASS] test_PermitDeposit_InsufficientBalance() (gas: 90517)
+[PASS] test_PermitDeposit_InvalidSignature() (gas: 61689)
+[PASS] test_PermitDeposit_Success() (gas: 128484)
+[PASS] test_PermitDeposit_Then_Withdraw() (gas: 134271)
+[PASS] test_PermitDeposit_WrongSpender() (gas: 63638)
+[PASS] test_PermitDeposit_ZeroAmount() (gas: 32894)
+[PASS] test_Withdraw_AllBalance() (gas: 94896)
+[PASS] test_Withdraw_EventEmitted() (gas: 92963)
+[PASS] test_Withdraw_InsufficientBalance() (gas: 87257)
+[PASS] test_Withdraw_MultipleTimes() (gas: 115970)
+[PASS] test_Withdraw_Success() (gas: 100663)
+[PASS] test_Withdraw_ZeroAmount() (gas: 87134)
+Suite result: ok. 14 passed; 0 failed; 0 skipped; finished in 2.41ms (4.98ms CPU time)
+
+Ran 1 test suite in 8.73ms (2.41ms CPU time): 14 tests passed, 0 failed, 0 skipped (14 total tests)

@@ -16,6 +16,8 @@ docs/
 # Dependencies
 lib/
 
-# Test files
-test/
+# Test files (keeping test contracts, but ignoring test results)
+# test/  # Allow test contract files to be committed
+
+# Ignore specific script
 script/Counter.s.sol
