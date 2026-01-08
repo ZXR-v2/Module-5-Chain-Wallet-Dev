@@ -1,0 +1,3 @@
+[submodule "TokenBank-tokenbank-eip712/contracts/lib/forge-std"]
+	path = TokenBank-tokenbank-eip712/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
