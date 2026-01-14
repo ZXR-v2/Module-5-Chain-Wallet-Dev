@@ -1,0 +1,16 @@
+Compiling 1 files with Solc 0.8.25
+Solc 0.8.25 finished in 619.67ms
+Compiler run successful with warnings:
+Warning (2018): Function state mutability can be restricted to pure
+   --> src/mocks/MockPermit2.sol:120:5:
+    |
+120 |     function nonceBitmap(address, uint256) external view override returns (uint256) {
+    |     ^ (Relevant source part starts here and spans across multiple lines).
+
+
+Ran 2 tests for test/TokenBankPermit2.t.sol:TokenBankPermit2Test
+[PASS] testDepositWithPermit2_realSignature() (gas: 128487)
+[PASS] test_RevertWhen_DepositExpiredPermit() (gas: 27404)
+Suite result: ok. 2 passed; 0 failed; 0 skipped; finished in 61.64ms (60.94ms CPU time)
+
+Ran 1 test suite in 1.88s (61.64ms CPU time): 2 tests passed, 0 failed, 0 skipped (2 total tests)
