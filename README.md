@@ -47,8 +47,12 @@
 
 链接: https://decert.me/quests/1fa3ecbc-a3cd-43ae-908e-661aac97bdc0
 
+链接：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/TokenBank-tokenbank-permit2
+
 实战 9：链上数据扫块：使用 Viem 索引链上 ERC20 转账数据并展示，掌握如果通过扫块的方式获取链上指定的数据。
 
 链接: https://decert.me/quests/ae220513-c0cb-4d9b-873a-caee1d4b358e
+
+链接：https://github.com/ZXR-v2/Module-5-Chain-Wallet-Dev/tree/main/erc20-indexer
 
 实战项目讲解： 交易所钱包系统开发， 相关文章：https://learnblockchain.cn/article/20345
