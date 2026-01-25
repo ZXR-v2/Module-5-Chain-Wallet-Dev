@@ -24,6 +24,6 @@ contract MintSimpleNFT is Script {
 
         vm.stopBroadcast();
 
-        console.log("✅ Minted SimpleNFT tokenId =", tokenId);
+        console.log("[OK] Minted SimpleNFT tokenId =", tokenId);
     }
 }
